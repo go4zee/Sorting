@@ -42,6 +42,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BubbleSort.cs" />
+    <Compile Include="BucketSort.cs" />
+    <Compile Include="IIntegerSortAlgorithm.cs" />
+    <Compile Include="InsertionSort.cs" />
+    <Compile Include="MergeSortArray.cs" />
+    <Compile Include="MergeSortIterative.cs" />
+    <Compile Include="MergeSortList.cs" />
+    <Compile Include="QuickSort.cs" />
+    <Compile Include="SelectionSort.cs" />
+    <Compile Include="SortClass.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
